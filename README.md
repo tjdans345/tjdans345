@@ -9,6 +9,9 @@ I Think The world is for ✨those who challenge themselves✨.
 > 
 > I am a developer who never stops challenging :rocket:
 
+You will be king. 
+# I will be emperor
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdans345&show_icons=true&theme=highcontrast)
 
 <!--
