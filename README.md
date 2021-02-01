@@ -3,7 +3,7 @@ Welcome to My Planet-0326(Moon's World)
 I Think The world is for ✨those who challenge themselves✨.
 
 
-> I am Developer having infinite possibility 🌱
+> I am Developer who have infinite possibility 🌱
 > 
 > I am Developer who never gives up :facepunch:
 > 
