@@ -5,7 +5,7 @@ I Think The world is for ✨those who challenge themselves✨.
 
 > I am Developer having infinite possibility 🌱
 > 
-> I am Developer who never gives up 🤔
+> I am Developer who never gives up :facepunch:
 > 
 > I am a developer who never stops challenging :rocket:
 
