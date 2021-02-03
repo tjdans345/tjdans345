@@ -9,6 +9,8 @@ I Think The world is for ✨those who challenge themselves✨.
 > 
 > I am a developer who never stops challenging :rocket:
 
+You're famous, but I'm gonna be great.
+
 You will be a kint
 # I will be emperor
 
