@@ -3,7 +3,7 @@ Welcome to My Planet-0326(Moon's World)
 I Think The world is for ✨those who challenge themselves✨.
 
 
-> I am developer who has infinite possibility. 🌱
+<!-- > I am developer who has infinite possibility. 🌱
 > 
 > I am Developer who never gives up :facepunch:
 > 
@@ -13,7 +13,7 @@ You're famous, but I'm gonna be great.
 
 You will be a kint
 # I will be emperor
-
+ -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdans345&show_icons=true&theme=highcontrast)
 
 <!--
