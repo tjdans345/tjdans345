@@ -4,7 +4,7 @@ I Think The world is for ✨those who challenge themselves✨.
 
          setState(){
          if(listDate<currentData)
-         day++
+         day++;
          }
 
 
