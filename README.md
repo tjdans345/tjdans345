@@ -2,6 +2,11 @@
 Welcome to My Planet-0326(Moon's World) 
 I Think The world is for ✨those who challenge themselves✨.
 
+         setState(){
+         if(listDate<currentData)
+         day++
+         }
+
 
 <!-- > I am developer who has infinite possibility. 🌱
 > 
