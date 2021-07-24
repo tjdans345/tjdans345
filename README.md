@@ -1,6 +1,4 @@
-# Hello World Nice to Meet You!👋 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ftjdans345&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-Welcome to My Planet-0326(Moon's World) 
-I Think The world is for ✨those who challenge themselves✨.
+Hello World!
 
          setState(){
          if(listDate<currentData)
