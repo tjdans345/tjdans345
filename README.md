@@ -4,7 +4,7 @@ Hello World!
          if(listDate<currentData)
          day++;
          }
-내 자세 낮추되 꼭대기를 봐 :) 
+내 자세 낮추되 꼭대기를 봐
 
 <!-- > I am developer who has infinite possibility. 🌱
 > 
