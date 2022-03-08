@@ -7,7 +7,7 @@ Hello World!!!!!!
 내 자세 낮추되 꼭대기를 봐
 
 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
-
+🔭 자바스크립트 스터디 운영 : https://silicon-harmonica-fe2.notion.site/47a266eb397d4d5ab1efc20a72509fd2 🔭
 <!-- > I am developer who has infinite possibility. 🌱
 > 
 > I am Developer who never gives up :facepunch:
