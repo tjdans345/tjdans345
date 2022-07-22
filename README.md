@@ -1,7 +1,7 @@
 Hello World!!!!!
 
          setState(){
-         if(listDate<currentData)
+         if(listDate<currentData>)
          day++;
          }
          
