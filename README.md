@@ -5,7 +5,7 @@ Hello World!!!!!
          day++;
          }
          
-내 자세 낮추되 꼭대기를 봐
+내 자세는 낮추되 꼭대기를 볼 것
 
 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
 
