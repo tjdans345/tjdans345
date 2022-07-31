@@ -6,7 +6,7 @@ Hello World!!!!!
          }
          
 내 자세는 낮추되 꼭대기를 볼 것
-여전히 나아가는 중이라 보여줄게 너무 많으니까
+여전히 나아가는 중이야 보여줄게 너무 많으니까
 
 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
 
