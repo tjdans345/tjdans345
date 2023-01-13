@@ -5,8 +5,7 @@ Hello World!!!!!
          day++;
          }
          
-내 자세는 낮추되 꼭대기를 볼 것
-여전히 나아가는 중이야 보여줄게 너무 많으니까
+자세는 낮추되 꼭대기를 볼 것
 
 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
 
@@ -22,7 +21,7 @@ You're famous, but I'm gonna be great.
 You will be a kint
 # I will be emperor
  -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdans345&show_icons=true&theme=highcontrast)
+<!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tjdans345&show_icons=true&theme=highcontrast) -->
 
 <!--
 **tjdans345/tjdans345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
