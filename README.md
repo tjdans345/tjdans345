@@ -4,9 +4,7 @@ Hello World!!!!!
          if(listDate<currentData>)
          day++;
          }
-         
-자세는 낮추되 꼭대기를 볼 것
-다 바닥을 볼 때 난 위를 향하고 있을 것  
+
 <!-- 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
 
 🔭 자바스크립트 스터디 운영 : https://silicon-harmonica-fe2.notion.site/47a266eb397d4d5ab1efc20a72509fd2 🔭 -->
