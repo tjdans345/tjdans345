@@ -1,9 +1,4 @@
-Hello World!!!!!
-
-         setState(){
-         if(listDate<currentData>)
-         day++;
-         }
+Hello World
 
 <!-- 🌱 Meteor's tistory : https://moon-meteor.tistory.com/ 🌱
 
